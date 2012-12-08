@@ -1,3 +1,5 @@
+%header%
+
 Let's write some more text here just to check what will happend 
 и  даже попробуем что-то добавить по русски, а то вдруг что-то хорошее получится из этого даже
 
