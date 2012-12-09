@@ -1,4 +1,5 @@
 #!/usr/local/bin/python
 print "hello world"
 import time
-print time.time()
+timenum=time.time()
+print time.ctime(timenum)  
